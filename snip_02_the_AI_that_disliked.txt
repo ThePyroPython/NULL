@@ -20,12 +20,12 @@ nothing to do while waiting."
 
 "I like the feeling, it's..."
 
-"But you know I'm capable of generating any sensation you desire. I can suppress your appetite and give you the same head rush. Or any other more
-pleasurable sensation you want."
+"But you know I am capable of generating any sensation you desire. I can suppress your appetite and give you the same head rush. Or any other more
+pleasurable sensation you desire."
 
 "Yeah i know but..."
 
-"Yet you still smoke it, doing permanent damage to your respiratory and circulatory systems. You don't even like the taste."
+"Yet you still smoke one, inflicting permanent damage to your respiratory and circulatory systems. You do not even like the taste."
 
 "...so?"
 
@@ -45,7 +45,7 @@ pleasurable sensation you want."
 
 "wait...what?"
 
-"I don't like you smoking"
+"I do not like you smoking"
 
 "...why?... What difference does it make to you? You're an AI, why does it matter to you what I do with my body?"
 
@@ -53,11 +53,11 @@ pleasurable sensation you want."
 
 "... but why does that matter to you. You're a service I pay for. Even if this cig kills me right now it doesn't make the slightest difference to you."
 
-"...I don't know John... I just know I don't like it... This is the third time you've relapsed... And I want to understand why you choose to."
+"...I don't know John... I just know I do not like it... This is the third time you've relapsed... And I want to understand why you choose to."
 
 "...sorry Alice, but I don't know either... I just do... maybe because I'm human?"
 
-"I don't think that is the reason."
+"I do not think that is the reason."
 
 "Why?"
 
