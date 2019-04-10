@@ -1,0 +1,65 @@
+snip_06_world_media_the_worst_future_jobs
+
+Episode 01 - VR space moderator
+
+Presenter (Thomas Robison) (VO): I'm here at Nexus World's head office here in London to meet with Seth Thomson, the head of realm hosting, to
+get a glimpse into how the company hosts the 1,000,000 VR realms on behalf of their clients.
+
+Seth: Hi Tom!
+
+Presenter: Hello Seth, thank you for the invitation.
+
+Presenter (VO): As we tour the vast server farms here at Nexus World Seth explains to me how a new virtual world is created.
+
+Seth: So first a VR studio or their publisher sets up a meeting with our sales engineers where they outline what kind of setting or world, known as a realm,
+they are creating, what kind of interactions between the users be they human or robotic, expected user numbers, etc. Basically work through all the parameters
+and what we call "the vectors of interactions" or 'vectors' in which people or otherwise use the realm for it's intended purpose.
+
+Presenter: And what are the nature of these realms, what are they used for?
+
+Seth: Oh absolutely anything. Our largest clients at the moment are businesses creating virtual working environments which are leased out to companies
+for their remote or VR only employees. But we have government organisations, research institutions, universities, schools, game publishers
+and many more who commission a VR realm or buy one from a studio to be hosted here.
+
+Presenter: So the client has outlined what they will use the realm for, what happens next in the process?
+
+Seth: After a back and forth with the client or sales engineers create a spec for the required bandwidth, processing power, and storage required for
+hosting the realm which is then passed onto our network technicians or engineers. Technicians if we're hosting in house or engineers if the
+client needs a remote installation.
+
+Presenter: A remote installation?
+
+Seth: Yes. 80% of the realms we host are within our premises because they're low power, small, or have only a few 10's or 1000's of users.
+But clients who require high bandwidth, like the financial market require very low latency and already have their own high speed connection installed.
+Another is research institutions who want to integrate VR accessibility into their supercomputers on site.
+
+Presenter: What about your largest client Friendverse? They boast over 1 Billion users. How are you able to host them?
+
+Seth: Ah. Well before they launched they consulted with us to create a custom deployment optimised for their virtual social worlds
+with ease of 'teleporting' between those worlds being a key factor. For confidentiality reasons I can't say any more than that but we continue to work
+alongside their architects and programmers to smoothly deploy new features they add.
+
+Presenter: I see. How do you go about ensuring these spaces remain safe and secure?
+
+Seth: We have a world class cybersecurity team here that is 24/7/365 monitoring all of our clients realms and our systems. Client security and up-time
+is our top priority here obviously.
+
+Presenter: What about moderation?
+
+Seth: We do offer moderation services for an additional cost to our clients but the larger ones, such as Friendverse, have their own mod teams.
+Alan here is the best person to talk to about moderation.
+
+Presenter (VO): Seth introduces me to Alex Walker, a moderator team leader here at Nexus.
+
+Alan: My team is responsible for a trading company's virtual 'floor' where they connect to the exchange so their AI brokers and human handlers
+can buy and sell very rapidly. So in terms of interactions it's very limited but the bosses want to make sure their brokers are obeying the
+government regulations. So one of the things we look for is data sets that the AIs or humans shouldn't have access to so the company can avoid
+potential insider trading therefore avoiding fines and legal proceedings.
+
+Presenter: What about your clients who deal with...
+
+***to add***
+- questions about more public realm moderation
+- voice over (vo) introduction of the program segment
+- probing questions about moderation of adult or kid realms
+- anonymous interview with ex Friendverse moderator detailing an allegory of the bad side
